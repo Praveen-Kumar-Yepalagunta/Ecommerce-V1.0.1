@@ -1,0 +1,17 @@
+ CREATE TABLE Products(Prod_id INT primary key,Prod_name varchar(255),prod_Desc varchar(255),prod_price INT, quantity INT); 
+
+INSERT INTO Products values(1,'ice_cream','Best thing to eat in summer',90,5);
+INSERT INTO Products values(2,'umbrella','Best thing in rainy season',190,15);
+INSERT INTO Products values(3,'bat','to play Cricket',1900,5);
+INSERT INTO Products values(4,'ball','Best thing to play',90,25);
+INSERT INTO Products values(5,'laptop','codding,gamming,monies',90000,5);
+INSERT INTO Products values(6,'bag','strore ojbects',999,3);
+INSERT INTO Products values(7,'earphones','good base 1 day play time 1 hr charge',999,9);
+INSERT INTO Products values(8,'mobile','samsung',19000,9);
+INSERT INTO Products values(9,'T.V','sony bravia',190000,5);
+INSERT INTO Products values(10,'car','B.M.W',10000000,15);
+INSERT INTO Products values(11,'bike','KTM',100000,6);
+INSERT INTO Products values(12,'lazer','bheam',7999,7);
+INSERT INTO Products values(13,'knife','ninja slash',666,9);
+INSERT INTO Products values(14,'gun','0.90 mm 300 meters range',10000,1);
+INSERT INTO Products values(15,'crackers','all kinds',3000,7);
